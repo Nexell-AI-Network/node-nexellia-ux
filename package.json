@@ -1,0 +1,21 @@
+{
+  "name": "@nexellia/ux",
+  "version": "1.0.30",
+  "description": "Nexellia Wallet User Interface Framework",
+  "main": "nexellia-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexellia-network/node-nexellia-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "nexellia-ux.js",
+    "nexellia-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
